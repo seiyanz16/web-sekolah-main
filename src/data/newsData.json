@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Juara Lomba KKSI Data Science 2006",
+        "user": "Admin",
+        "desc": "Lorem ipsum, dolor sit amet elit. rem poimus? Tempora expedita",
+        "date": "September, 17 2006",
+        "src": "images/news/Fischl.jpg",
+        "key": "kesiswaan"
+    },
+    {
+        "title": "Juara Lomba KKSI Data Science 2022",
+        "user": "Admin",
+        "desc": "Lorem ipsum, dolor sit amet elit. rem poimus? Tempora expedita",
+        "date": "September, 17 2006",
+        "src": "images/news/panther.png",
+        "key": "prestasi"
+    },
+    {
+        "title": "Juara Lomba KKSI Data Science 2024",
+        "user": "Admin",
+        "desc": "Lorem ipsum, dolor sit amet elit. rem poimus? Tempora expedita",
+        "date": "September, 17 2006",
+        "src": "images/news/ann.jpg",
+        "key": "industri"
+    },
+    {
+        "title": "Juara Lomba KKSI Data Science 2024",
+        "user": "Admin",
+        "desc": "Lorem ipsum, dolor sit amet elit. rem poimus? Tempora expedita",
+        "date": "September, 17 2006",
+        "src": "images/news/ann.jpg",
+        "key": "industri"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Home",
+        "dropdown": false
+    },
+    {
+        "name": "About",
+        "dropdown": true,
+        "sublinks":[
+            {"name":"Identity", "link":"/"}, 
+            {"name":"History", "link":"/"}, 
+            {"name":"Vision & Mission", "link":"/"}
+        ]
+    },
+    {
+        "name": "News",
+        "dropdown": false
+    },
+    {
+        "name": "Student Affairs",
+        "dropdown": true,
+        "sublinks":[
+            {"name":"Extracurricular", "link":"/"}, 
+            {"name":"PPDB Information", "link":"/"}
+        ]
+    },
+    {
+        "name": "Curriculum",
+        "dropdown": true,
+        "sublinks":[
+            {"name":"Majority", "link":"/"}, 
+            {"name":"Teachers & Staffs", "link":"/"}
+        ]
+    },
+    {
+        "name": "Facilities & Infrastructure",
+        "dropdown": false
+    }
+]

@@ -1,0 +1,9 @@
+export { default as FacilityCard } from './FacilityCard';
+export { default as ExtracurricularCard } from './ExtracurricularCard';
+export { default as MajorityCard } from './MajorityCard';
+export { default as NewsCard } from './NewsCard';
+export { default as TeachersCard } from './TeachersCard';
+export { default as Footer } from './Footer';
+export { default as Navbar } from './Navbar/Navbar';
+export { default as Button } from './Button';
+export { default as AboutContent } from './AboutContent';
