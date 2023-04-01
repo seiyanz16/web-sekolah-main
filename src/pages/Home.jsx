@@ -19,7 +19,7 @@ const Home = () => {
             </p>
             <button
               href="#"
-              className="bg-main-color hover:bg-red-300 text-white text-2xl font-medium py-2 px-6 rounded-full transition duration-300"
+              className="bg-main-color hover:bg-home-color border-2 border-main-color text-white hover:text-main-color text-2xl font-semibold py-2 px-6 rounded-full transition duration-300"
             >
               Our News
             </button>
