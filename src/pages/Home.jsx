@@ -28,7 +28,7 @@ const Home = () => {
       </section>
       <section
         id="jurusan"
-        className="flex w-full justify-center flex-wrap h-auto p-10"
+        className="grid grid-col place-items-center w-full justify-center flex-wrap h-auto p-10"
       >
         <div className="text-center">
           <h1 className="text-6xl font-bold uppercase">majority</h1>
@@ -51,17 +51,17 @@ const Home = () => {
             );
           })}
         </div>
-        <button class="text-main-color border-2 border-main-color hover:border-red-300 text-xl font-bold py-2 px-4 rounded-full flex items-center">
-          <i class="fa-solid fa-play"></i>
-          More
+        <button class="btn-hover-white text-main-color border-2 border-main-color hover:bg-main-color hover:text-light-one text-xl font-bold py-2 px-4 rounded-full flex items-center transition duration-300">
+          <span className="span-hover-white h-5 w-5 bg-playRed bg-no-repeat transition duration-300"></span>
+          <span className="pl-1">More</span>
         </button>
       </section>
       <section
-        id="jurusan"
-        className="flex w-full justify-center flex-wrap h-auto p-10 bg-home-color"
+        id="news"
+        className="grid grid-col place-items-center w-full justify-center flex-wrap h-auto p-10 bg-home-color"
       >
         <div className="text-center">
-          <h1 className="text-6xl font-bold uppercase">majority</h1>
+          <h1 className="text-6xl font-bold uppercase">news update</h1>
           <p className="text-xl text-home-text-p">
             About nevtiks activities and achievements :
           </p>
@@ -81,9 +81,9 @@ const Home = () => {
             );
           })}
         </div>
-        <button class="text-main-color border-2 border-main-color hover:border-red-300 text-xl font-bold py-2 px-4 rounded-full flex items-center">
-          <i class="fa-solid fa-play"></i>
-          More
+        <button class="btn-hover-red text-light-one bg-main-color border-2 border-main-color hover:bg-light-one hover:text-main-color text-xl font-bold py-2 px-4 rounded-full flex items-center transition duration-300">
+          <span className="span-hover-red h-5 w-5 bg-playWhite bg-no-repeat transition duration-300"></span>
+          <span className="pl-1">More</span>
         </button>
       </section>
     </div>

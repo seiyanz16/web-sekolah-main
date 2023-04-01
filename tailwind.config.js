@@ -21,6 +21,8 @@ module.exports = {
       },
       backgroundImage: {
         hero: "url('/public/images/home/hero.svg')",
+        playRed: "url('/public/images/home/play-red.svg')",
+        playWhite: "url('/public/images/home/play-white.svg')",
       },
     },
   },

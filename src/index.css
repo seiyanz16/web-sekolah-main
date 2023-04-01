@@ -119,3 +119,10 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
+
+.btn-hover-red:hover .span-hover-red {
+  background-image: url('../public/images/home/play-red.svg');
+}
+.btn-hover-white:hover .span-hover-white {
+  background-image: url('../public/images/home/play-white.svg');
+}
